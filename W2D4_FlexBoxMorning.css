@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: lightskyblue;
+    padding: 10px;
+    font-family: cursive;
+}
+
+.sidebar{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: lightskyblue;
+    align-items: center;
+    max-width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height: 200px;
+    font-family: cursive;
+}
+
+
+
+.donate{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: lightskyblue;
+    padding: 15px;
+    font-family: cursive;
+}
